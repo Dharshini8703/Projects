@@ -1,0 +1,6 @@
+{
+    "mongoURL": "mongodb://127.0.0.1:27017/propertyFinder",
+    "JWT_SECRET": "qwerty8976khkhkh",
+    "refreshToken": "aadfasdfasdf;lk;'lk';lk;87878",
+    "refreshTokenExpire": "7d" 
+}
